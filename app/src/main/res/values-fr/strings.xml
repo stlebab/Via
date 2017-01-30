@@ -134,7 +134,7 @@
     <string name="toast_save_to">Enregistrer le fichier dans: </string>
     <string name="toast_operation_failed">"L\'opération a échoué."</string>
     <string name="toast_operation_done">Opération effectuée.</string>
-    <string name="volume">Appuyez sur la touche Volume pour faire défiler</string>
+    <string name="volume">Touche volume pour faire défiler</string>
     <string name="intent">Autoriser la demande du site Web</string>
     <string name="msg_intent">"Souhaitez-vous ouvrir l\'application?"</string>
     <string name="dialog_adblock">Filtre ads par défaut:Fichier système hosts.txt\n\nFichier personnalisé:Répertoire de téléchargement hosts.txt, Sera téléchargé, si inexistant.</string>
